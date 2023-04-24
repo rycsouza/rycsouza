@@ -1,5 +1,7 @@
 ### Olá, eu sou o Rychard Souza!
 ##
+<img src="https://github.com/rycsouza/rycsouza/blob/main/laptop.gif" min-width="300px" max-width="300px" width="300px" align="right" alt="Laptop Coding">
+
 - 🕊 Tenho 20 anos
 - 🎮 Sou Game Dev
 - 💻 Trabalho Atualmente Como Desenvolvedor de Jogos na Play Serviços
