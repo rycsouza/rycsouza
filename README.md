@@ -9,6 +9,4 @@
 [![card](https://github-readme-stats.vercel.app/api?username=rycsouza&theme=merko&show_icons=true)](https://github.com/rycsouza/)
 ##
 
-
 <a href="https://www.linkedin.com/in/rychardsouza/">![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-<a href="https://app.slack.com/client/TJ9J9HG8Z/C02T08KS1GC">![image](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
