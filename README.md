@@ -3,8 +3,8 @@
 <img src="https://github.com/rycsouza/rycsouza/blob/main/laptop.gif" min-width="300px" max-width="300px" width="300px" align="right" alt="Laptop Coding">
 
 - 🕊 Tenho 20 anos
-- 🎮 Sou Game Dev
-- 💻 Trabalho Atualmente Como Desenvolvedor de Jogos na Play Serviços
+- 🎮 Sou Dev Back-end
+- 💻 Trabalho Atualmente Como Desenvolvedor Back-end, NodeJS na Play Serviços
 
 [![card](https://github-readme-stats.vercel.app/api?username=rycsouza&theme=merko&show_icons=true)](https://github.com/rycsouza/)
 ##
