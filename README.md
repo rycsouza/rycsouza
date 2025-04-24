@@ -2,7 +2,7 @@
 ##
 <img src="https://github.com/rycsouza/rycsouza/blob/main/laptop.gif" min-width="300px" max-width="300px" width="300px" align="right" alt="Laptop Coding">
 
-- 🕊 21 anos
+- 🕊 22 anos
 - 🎮 Back-End Developer
 - 📚 Graduando em Análise e Desenvolvimento de Sistemas - Descomplica Faculdade Digital
 - 💻 Trabalho Atualmente Como Desenvolvedor Back-End, NodeJS na Play55 Tecnologias
